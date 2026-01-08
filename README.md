@@ -149,6 +149,14 @@ fi
 - Only accepts POST requests from claude.ai (CORS restricted)
 - No sensitive data is transmitted externally
 
+## Contributing
+
+Something not working? Have an improvement? PRs are welcome!
+
+- Open an [issue](https://github.com/astrosteveo/claude-usage-statusline/issues) to report bugs or suggest features
+- Submit a [pull request](https://github.com/astrosteveo/claude-usage-statusline/pulls) with your fix or enhancement
+- All contributions are appreciated
+
 ## License
 
 MIT - Do whatever you want with it.
