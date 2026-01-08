@@ -2,7 +2,7 @@
 set -e
 
 # Claude Usage Status Line Installer
-# https://github.com/YOUR_USERNAME/claude-usage-statusline
+# https://github.com/astrosteveo/claude-usage-statusline
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 CLAUDE_DIR="$HOME/.claude"

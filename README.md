@@ -22,7 +22,7 @@ Display your real-time Claude.ai usage limits (session quota, weekly quota) in C
 ## Quick Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-usage-statusline.git
+git clone https://github.com/astrosteveo/claude-usage-statusline.git
 cd claude-usage-statusline
 ./install.sh
 ```

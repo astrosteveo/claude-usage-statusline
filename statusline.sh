@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Claude.ai Usage Status Line for Claude Code
-# https://github.com/YOUR_USERNAME/claude-usage-statusline
+# https://github.com/astrosteveo/claude-usage-statusline
 
 # Configuration
 CACHE_FILE="${CLAUDE_USAGE_CACHE:-$HOME/.claude/usage_cache.json}"
